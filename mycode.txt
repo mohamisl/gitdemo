@@ -2,3 +2,6 @@ Welcome to Git Class
 This class will rock your world
 
 Really ... it will change your life
+
+... yet another change ...
+
