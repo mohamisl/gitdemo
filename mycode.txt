@@ -7,3 +7,8 @@ Really ... it will change your life
 
 
 ,dl;kfl;skfsd;lfks;lk
+
+git merge
+git remote
+git pull
+git push
